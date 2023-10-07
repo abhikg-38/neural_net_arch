@@ -1,2 +1,2 @@
 # neural_net_arch
-An ML project implementing a versatile neural network architecture combining both wide and deep paths to handle a range of data patterns.
+This ML projects experiments with various Sequential and Wide and Deep neural network architecture approaches to tackle multiple datasets. Initially simple multi layered perceptrons are used for image classification tasks, after which more complex neural network approaches used for both regression and classification problems. Tensorboard is made thorough use of, variation of attributes across epochs is analyzed and noted.
